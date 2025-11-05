@@ -74,6 +74,17 @@ O sensor <b>DHT11</b> coleta dados de temperatura e umidade, permitindo análise
 
 ---
 
+<h2>👨‍💻 Integrantes</h2>
+
+<ul>
+  <li>Kauai Rosa</li>
+  <li>Bruno Gama</li>
+  <li>Murilo Bastos</li>
+  <li>Lucas Pedro</li>
+</ul>
+
+---
+
 <h2>❤️ Agradecimentos</h2>
 
 <p align="center">
