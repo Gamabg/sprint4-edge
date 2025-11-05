@@ -12,23 +12,19 @@
       text-align: center;
       padding: 40px 20px;
     }
-
     h1 {
       color: #00aaff;
       margin-bottom: 10px;
     }
-
     h2 {
       margin-top: 30px;
       color: #ffaa00;
     }
-
     p {
       max-width: 800px;
       margin: 0 auto 15px;
       line-height: 1.6;
     }
-
     .card {
       background: rgba(255, 255, 255, 0.05);
       border: 1px solid rgba(255, 255, 255, 0.1);
@@ -38,13 +34,11 @@
       max-width: 700px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
     }
-
     footer {
       margin-top: 40px;
       font-size: 0.9em;
       opacity: 0.7;
     }
-
     img {
       width: 100%;
       border-radius: 12px;
