@@ -6,7 +6,6 @@
   <title>Detector de Gol - Projeto com DHT11 e LDR</title>
 </head>
 <body>
-
   <h1>⚽ Projeto: Detector de Gol Inteligente</h1>
   <p>Desenvolvido com sensores DHT11 e LDR para monitorar a passagem da bola e as condições ambientais durante o jogo.</p>
 
