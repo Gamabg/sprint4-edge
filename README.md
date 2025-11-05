@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="" width="80%" alt="Imagem ilustrativa do gol e sensores"/>
+  <img src="Captura de tela 2025-11-05 204536.png" width="80%" alt="Imagem ilustrativa do gol e sensores"/>
 </p>
 
 ---
