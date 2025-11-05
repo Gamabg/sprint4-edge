@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/30/22/09/soccer-2691325_1280.jpg" width="80%" alt="Imagem ilustrativa do gol e sensores"/>
+  <img src="" width="80%" alt="Imagem ilustrativa do gol e sensores"/>
 </p>
 
 ---
