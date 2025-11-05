@@ -4,47 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Detector de Gol - Projeto com DHT11 e LDR</title>
-  <style>
-    body {
-      font-family: "Heebo", sans-serif;
-      background: linear-gradient(135deg, #0a0a23, #1b1b3a);
-      color: #fff;
-      text-align: center;
-      padding: 40px 20px;
-    }
-    h1 {
-      color: #00aaff;
-      margin-bottom: 10px;
-    }
-    h2 {
-      margin-top: 30px;
-      color: #ffaa00;
-    }
-    p {
-      max-width: 800px;
-      margin: 0 auto 15px;
-      line-height: 1.6;
-    }
-    .card {
-      background: rgba(255, 255, 255, 0.05);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: 15px;
-      padding: 20px;
-      margin: 30px auto;
-      max-width: 700px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 0.9em;
-      opacity: 0.7;
-    }
-    img {
-      width: 100%;
-      border-radius: 12px;
-      margin-top: 15px;
-    }
-  </style>
 </head>
 <body>
 
