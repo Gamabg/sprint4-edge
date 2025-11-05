@@ -31,7 +31,7 @@ O sistema foi desenvolvido em <b>ESP32</b> ou <b>Arduino</b>, podendo futurament
 <h2>🧩 Arquitetura do Sistema</h2>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/26/13/40/soccer-2687907_1280.jpg" width="75%" alt="Arquitetura do sistema de detecção de gol"/>
+  <img src="https://github.com/user-attachments/assets/cd7e6d66-d172-4c84-820b-46d23f3bbbfc" width="75%" alt="Arquitetura do sistema de detecção de gol"/>
 </p>
 
 | Camada | Tecnologia | Descrição |
