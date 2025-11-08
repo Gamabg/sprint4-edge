@@ -88,7 +88,7 @@ O sensor <b>DHT11</b> coleta dados de temperatura e umidade, permitindo análise
 <h2>❤️ Agradecimentos</h2>
 
 <p align="center">
-  Projeto desenvolvido por <b>[Seu Nome]</b><br>
+  Projeto desenvolvido por <b>Company 404</b><br>
   <i>Projeto acadêmico de IoT e Automação Esportiva</i><br><br>
   Agradecemos seu interesse em recriar e aprimorar este sistema! 👋<br>
   <i>Sinta-se à vontade para expandir o projeto com novos sensores e recursos.</i>
